@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "ng-regexp": {
+      "words": [
+        {
+          "pattern": ["うんち"],
+          "exclude": ["うんちく"],
+        }
+      ]
+    }
+  }
+}
